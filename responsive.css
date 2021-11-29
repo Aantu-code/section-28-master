@@ -1,0 +1,15 @@
+@media only screen and (max-width: 992px) {
+  .footer-subscribtion-from input[type="email"] {
+    width: 68%;
+  }
+  .footer-subscribtion-from input[type="submit"] {
+    width: 28%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .footer-wid h3 {
+    margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 568px) {
+}
